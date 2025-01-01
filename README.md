@@ -131,3 +131,9 @@ While VMs can achieve isolation, **Docker containers** provide a more lightweigh
 - However, **Docker containers** achieve similar isolation but are more lightweight, faster, and more resource-efficient because they share the host's kernel instead of running full OSes.
 
 So, while VMs are an older and heavier solution for running multiple isolated environments, **Docker** provides a more efficient and flexible way to do this in modern development.
+
+
+Reference videos:- 
+https://youtu.be/17Bl31rlnRM?si=2yH3EaDA-RdYj5op
+
+https://youtu.be/H8Lyj2D_cWo?si=qktXTVqHwybtKf0H
