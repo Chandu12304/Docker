@@ -132,8 +132,9 @@ While VMs can achieve isolation, **Docker containers** provide a more lightweigh
 
 So, while VMs are an older and heavier solution for running multiple isolated environments, **Docker** provides a more efficient and flexible way to do this in modern development.
 
+---
 
-Reference videos:- 
+### Reference videos:- 
 
 https://youtu.be/17Bl31rlnRM?si=2yH3EaDA-RdYj5op
 
