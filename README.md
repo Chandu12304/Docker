@@ -4,6 +4,8 @@
 
 ### **Understanding Docker Images and Containers**
 
+![Docker](https://i.imgur.com/N5cOuPS.png)
+
 1. **Docker Image**:
    - A Docker image is a **blueprint** or **template** that contains:
      - The application’s code.
