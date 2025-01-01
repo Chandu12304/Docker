@@ -15,6 +15,8 @@ The `hello-world` image is a simple Docker image used for testing if Docker is i
 
 This command will download the image (if not already downloaded) and run it, displaying a confirmation message that Docker is working properly.
 
+![Hello World Output](https://i.imgur.com/1EE1omn.png)
+
 ---
 
 ## 2. Downloading and Running `ubuntu` Docker Image Interactively
@@ -41,3 +43,5 @@ Once inside the Ubuntu container, you can install packages and run commands as i
 ls
 touch chandan.txt
 ls
+```
+![Ubuntu Container Example](https://i.imgur.com/mWjE3BN.png)
